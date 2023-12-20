@@ -1,0 +1,74 @@
+# Translation of Plugins - Disable Comments - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Disable Comments - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-30 07:53:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Disable Comments - Stable (latest release)\n"
+
+#: information.php:242
+msgid "Create Free Gallery with Premium features with Robo Gallery"
+msgstr "Создавайте бесплатную галерею с премиум-функциями с помощью Robo Gallery"
+
+#: information.php:248
+msgid "Install Gallery"
+msgstr "Установить галерею"
+
+#: information.php:262
+msgid "Register Free Account"
+msgstr "Зарегистрируйте бесплатную учетную запись"
+
+#: information.php:258
+msgid "Free website uptime and performance monitoring service for your WordPress"
+msgstr "Бесплатная служба мониторинга работоспособности и производительности вашего сайта на WordPress"
+
+#: options.php:55
+msgid "Enable all Comments (comments on entire site will be turned on)"
+msgstr "Включить все комментарии (комментарии на всем сайте будут включены)"
+
+#: options.php:39
+msgid "Here you can configure your disabled comments tools. Section with all configuration settings of this tool."
+msgstr "Здесь можно настроить инструменты для отключения комментариев. Раздел со всеми настройками конфигурации этого инструмента."
+
+#. Author of the plugin
+msgid "rbPlugins"
+msgstr "rbPlugins"
+
+#: options.php:62
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: classDisableComments.php:216
+msgid "Settings"
+msgstr "Настройки"
+
+#: classDisableComments.php:129 classDisableComments.php:164
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: options.php:47
+msgid "Disable all comments"
+msgstr "Отключить все комментарии"
+
+#. Plugin Name of the plugin
+#: classDisableComments.php:239 options.php:37
+msgid "Disable Comments RB"
+msgstr "Disable Comments RB"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://robosoft.co/wordpress-plugins/disable-comments"
+msgstr "https://robosoft.co/wordpress-plugins/disable-comments"
+
+#. Description of the plugin
+msgid "Easy tool to disable comments for your blog posts, pages. Admin can disable comments in just few clicks. Delete comments from blog post."
+msgstr "Простой инструмент для отключения комментариев к записям блога, страницам. Администратор может отключить комментарии всего за несколько щелчков мыши. Удаление комментариев из записи блога."
+
+#: classDisableComments.php:155
+msgid "The <em>Disable Comments</em> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Плагин <em>Disable Comments</em> активен, но еще не настроен для каких-либо действий. Посетите <a href=\"%s\">страницу конфигурации</a>, чтобы выбрать типы записей, к которым нужно отключить комментарии."
